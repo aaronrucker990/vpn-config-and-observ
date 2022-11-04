@@ -27,15 +27,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   1. Browse to https://whatismyipaddress.com/ and take note of this in a text file
   2. Create a Resource Group
   3. Create a Windows 10 Virtual Machine in another geographic location (try a different country)
-      a. Log into the VM with Remote Desktop
-      b. Browse to https://whatismyipaddress.com/ and take note of this in a text file
+      - Log into the VM with Remote Desktop
+      - Browse to https://whatismyipaddress.com/ and take note of this in a text file
 
 (Sign up for ProtonVPN and test the VPN connection)
 
   4. On your actual computer, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en  
   5. Back within your VM, download the Proton VPN client
-      a. Login to the VPN and choose a VPN server in yet another country (such as Japan)
-      b. Browse to https://whatismyipaddress.com/  and take note of this in a text file
+      - Login to the VPN and choose a VPN server in yet another country (such as Japan)
+      - Browse to https://whatismyipaddress.com/  and take note of this in a text file
   6. Try browsing to Google, Disney, and/or Amazon and see if there is anything different about the sites in relation to the location of your VPN server. For example, the language or URL may be different
 
 (Clean up Azure resources)
