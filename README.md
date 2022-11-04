@@ -11,10 +11,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
 - VPN
+
+- Microsoft Azure (Virtual Machines/Compute)
+
+- Remote Desktop
+
+- Internet Information Services (IIS)
+
 
 <h2>Operating Systems Used </h2>
 
