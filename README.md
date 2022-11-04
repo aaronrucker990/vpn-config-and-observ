@@ -41,6 +41,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 (Clean up Azure resources)
 
 Delete the resource group you created in Step 2
+
 Ensure the resources/Resource Group has been deleted.
 
 
