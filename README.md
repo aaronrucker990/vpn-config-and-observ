@@ -55,7 +55,7 @@ Section 3
 </p>
 <p>
 
-Here we can observe the personal IP Addresss and how it shows where I am currently located at. We also observe how my location is currently in Dallas, Texas. 
+Once we browse to www.whatismyipaddress.com we can observe the personal IP Addresss and how it shows the current locatation. We also can observe how my location is currently in Dallas, Texas, from my personal computer.
 
 </p>
 <br />
@@ -83,7 +83,9 @@ Note : If you create a Virtual Machine in Azure it will automatically create you
 <img src= "https://i.imgur.com/4VdZdCq.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+    
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
