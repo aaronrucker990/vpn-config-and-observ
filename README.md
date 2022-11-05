@@ -69,7 +69,9 @@ Here we can observe the personal IP Addresss and how it shows where I am current
 </p>
 <p>
 
-We now want to create our Windows 10, Virtual Machine. Note : If you create a Virtual Machine in Azure it will automatically create your Resouce Group, as long as you click new Resource Group when creating your virtual Machine. 
+We now want to create our Windows 10, Virtual Machine. 
+
+Note : If you create a Virtual Machine in Azure it will automatically create your Resouce Group, as long as you click new Resource Group when creating your virtual Machine. 
 
 </p>
 <br />
