@@ -23,11 +23,12 @@ Section 1
 1. Browse to https://whatismyipaddress.com/ and take note of this in a text file
 2. Create a Resource Group
 3. Create a Windows 10 Virtual Machine in another geographic location (try a different country)
-    1. Log into the VM with Remote Desktop
-    2. Browse to https://whatismyipaddress.com/ and take note of this in a text file
-
+   
 Section 2
 
+ 1. Log into the VM with Remote Desktop
+ 2. Browse to https://whatismyipaddress.com/ and take note of this in a text file
+ 
 (Sign up for ProtonVPN and test the VPN connection)
 
 4. On your actual computer, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en  
