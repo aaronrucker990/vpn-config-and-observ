@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/hx4TXLv.jpg" alt="VPN Logo"/>
+<img src="https://i.imgur.com/hx4TXLv.jpg" height="80%" width="80%" alt="VPN logo"/>
 </p>    
     
 <h1>Configuring and Observing a VPN within a Virtual Envoirment</h1>
