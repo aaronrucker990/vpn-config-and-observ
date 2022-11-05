@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<img src="https://i.imgur.com/hx4TXLv.jpg"
+<img src="https://i.imgur.com/hx4TXLv.jpg" alt="VPN Logo"/>
 
 <h1>Configuring and Observing a VPN within a Virtual Envoirment</h1>
 This tutorial outlines the implementation of Configuring and Observing a VPN within a Virtual Envoirment.<br />
