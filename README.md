@@ -3,7 +3,7 @@
 </p>
 
 <h1>Configuring and Observing a VPN within a Virtual Envoirment</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines the implementation of Configuring and Observing a VPN within a Virtual Envoirment.<br />
 
 
 <h2>Video Demonstration</h2>
