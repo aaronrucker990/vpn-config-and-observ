@@ -45,7 +45,7 @@ Section 3
 
 (Clean up Azure resources)
 
-7. Delete the resource group you created in Step 2
+7. Delete the resource group you created in Section 1
 8. Ensure the resources/Resource Group has been deleted.
 
 
