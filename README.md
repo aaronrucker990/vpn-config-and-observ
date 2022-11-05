@@ -126,6 +126,8 @@ You should see this a screen similar to the visual once you have successfully lo
     
 Now when browsing to www.whatismyipaddress.com your personal IP Addresss should be the location of the Virtual Machine. It should be diferrent from the personal IP Address that you had, before you entered into your Virtual Machine via RDP.
 
+Note : Make sure you create your Virtual Machine in your region or close. I accidentally created a Virtual Machine in the Asian Pacific region but the lab was still successful. 
+
     
 </p>
 <br />
