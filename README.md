@@ -22,10 +22,30 @@ This tutorial outlines the implementation of Configuring and Observing a VPN wit
 
 <h2>High-Level Deployment of Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+Section 1
+
+(Create Virtual Machine in Azure)
+1. Browse to https://whatismyipaddress.com/ and take note of this in a text file
+2. Create a Resource Group
+3. Create a Windows 10 Virtual Machine in another geographic location (try a different country)
+    1. Log into the VM with Remote Desktop
+    2. Browse to https://whatismyipaddress.com/ and take note of this in a text file
+
+Section 2
+
+(Sign up for ProtonVPN and test the VPN connection)
+4. On your actual computer, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en  
+5. Back within your VM, download the Proton VPN client
+    1. Login to the VPN and choose a VPN server in yet another country (such as Japan)
+    2. Browse to https://whatismyipaddress.com/  and take note of this in a text file
+6. Try browsing to Google, Disney, and/or Amazon and see if there is anything different about the sites in relation to the location of your VPN server. For example, the language or URL may be different
+
+Section 3
+
+(Clean up Azure resources)
+7. Delete the resource group you created in Step 2
+8. Ensure the resources/Resource Group has been deleted.
+
 
 <h2>Configurations and Observations</h2>
 
