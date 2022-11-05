@@ -55,7 +55,7 @@ Section 3
 </p>
 <p>
 
-Here we can observe the personal IP Addresss and how it shows where I am currently located at. We also observe hpw my location is currently in Dallas, Texas. 
+Here we can observe the personal IP Addresss and how it shows where I am currently located at. We also observe how my location is currently in Dallas, Texas. 
 
 </p>
 <br />
