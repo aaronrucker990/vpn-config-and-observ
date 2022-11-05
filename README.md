@@ -34,6 +34,7 @@ Section 1
 Section 2
 
 (Sign up for ProtonVPN and test the VPN connection)
+
 4. On your actual computer, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en  
 5. Back within your VM, download the Proton VPN client
     1. Login to the VPN and choose a VPN server in yet another country (such as Japan)
@@ -43,6 +44,7 @@ Section 2
 Section 3
 
 (Clean up Azure resources)
+
 7. Delete the resource group you created in Step 2
 8. Ensure the resources/Resource Group has been deleted.
 
