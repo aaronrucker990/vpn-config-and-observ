@@ -48,7 +48,7 @@ Section 3
 <h2>Observations Made on Configurations</h2>
 
 
-<h2>Observation 1</h2>
+<h2>Visual 1</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 
-<h2>Observation 2</h2>
+<h2>Visual 2</h2>
 
 
 <p>
@@ -70,7 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<h2>Observation 3</h2>
+<h2>Visual 3</h2>
 
 
 <p>
