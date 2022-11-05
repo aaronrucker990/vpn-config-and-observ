@@ -54,7 +54,9 @@ Section 3
 <img src="https://i.imgur.com/924SVlu.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Here we can observe the personal IP Addresss and how it shows where I am currently located at. We also observe hpw my location is currently in Dallas, Texas. 
+
 </p>
 <br />
 
