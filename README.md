@@ -20,7 +20,7 @@ This tutorial outlines the implementation of Configuring and Observing a VPN wit
 
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment of Steps</h2>
+<h2>High-Level Configation of Steps</h2>
 
 Section 1
 
@@ -49,7 +49,7 @@ Section 3
 8. Ensure the resources/Resource Group has been deleted.
 
 
-<h2>Configurations and Observations</h2>
+<h2>Observations</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
