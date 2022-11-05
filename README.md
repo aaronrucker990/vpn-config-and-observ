@@ -20,7 +20,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>High-Level Configuration of Steps</h2>
 
 - Step 1
 - Step 2
