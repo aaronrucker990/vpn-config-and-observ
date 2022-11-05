@@ -45,7 +45,7 @@ Section 3
 8. Ensure the resources/Resource Group has been deleted.
 
 
-<h2>Observations Made on Configurations</h2>
+<h1>Observing Configurations</h1>
 
 
 <h2>Visual 1</h2>
