@@ -124,7 +124,8 @@ You should see this a screen similar to the visual once you have successfully lo
 </p>
 <p>
     
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now when browsing to www.whatismyipaddress.com your personal IP Addresss should be the location of the Virtual Machine. It should be diferrent from the personal IP Address that you had, before you entered into your Virtual Machine via RDP.
+
     
 </p>
 <br />
