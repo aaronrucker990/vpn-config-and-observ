@@ -55,7 +55,7 @@ Section 3
 </p>
 <p>
 
-Once we browse to www.whatismyipaddress.com we can observe the personal IP Addresss and how it shows the current locatation. We also can observe how my location is currently in Dallas, Texas, from my personal computer.
+Once you browse to www.whatismyipaddress.com you can observe the personal IP Addresss and how it shows the current locatation. You also can observe how my location is currently in Dallas, Texas, from my personal computer.
 
 </p>
 <br />
@@ -69,7 +69,7 @@ Once we browse to www.whatismyipaddress.com we can observe the personal IP Addre
 </p>
 <p>
 
-We now want to create our Windows 10, Virtual Machine. 
+You now want to create our Windows 10, Virtual Machine. 
 
 Note : If you create a Virtual Machine in Azure it will automatically create your Resouce Group, as long as you click new Resource Group when creating your virtual Machine. 
 
@@ -84,7 +84,7 @@ Note : If you create a Virtual Machine in Azure it will automatically create you
 </p>
 <p>
     
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now when you remote into your Virtual Machine, please take into account that you have to remote into the public IP Address. If you notice in the visual you can see how the public IP Address has a circle around it. 
 
 </p>
 <br />
