@@ -16,7 +16,7 @@ This tutorial outlines the implementaion of configuring and observing a VPN, wit
 
 - Windows 10 (21H2)
 
-<h2>Description of Steps</h2>
+<h2>Description of Detailed Steps</h2>
 
 Section 1
 
