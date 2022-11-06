@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/hx4TXLv.jpg" height="80%" width="80%" alt="VPN logo"/>
 </p>    
     
-<h1>Configuring and Observing a VPN within a Virtual Envoirment</h1>
-This tutorial outlines the implementation of configuring and observing, a VPN within a Virtual Envoirment.<br />
+<h1>Configuring and Observing a VPN within a Virtual Machine</h1>
+This tutorial outlines the implementation of configuring and observing, a VPN within a Virtual Machine.<br />
 
 <h2>Environments and Technologies Used</h2>
 
