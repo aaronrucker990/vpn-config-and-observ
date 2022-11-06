@@ -27,6 +27,7 @@ Generating your Virtual Machine in Microsoft Azure
 4. Create Virtual Machine in a  country (try your country or a country close, so your vm isn’t too slow)
 
 	a. Log into your VM, you created via Remote Desktop
+	
 	b. Browse tohttps://whatismyipaddress.com/  and take note of your IP Address
 
 Section 2
