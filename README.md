@@ -3,7 +3,8 @@
 </p>    
     
 <h1>Configuring and Observing a VPN within a Virtual Machine</h1>
-This tutorial outlines the implementation of configuring and observing, a VPN within a Virtual Machine.<br />
+
+This tutorial outlines configuring and observing, a VPN within a Virtual Machine.<br />
 
 <h2>Environments and Technologies Used</h2>
 
