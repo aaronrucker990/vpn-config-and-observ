@@ -19,7 +19,7 @@ This tutorial outlines the implementation of Configuring and Observing a VPN wit
 
 Section 1
 
-Generating your Virtual Machine in Microsoft Azure
+Generating your Virtual Machine within Microsoft Azure
 
 1. Create a text file or note pad to keep track of your information.
 2. Browse to https://whatismyipaddress.com/ and take note of your IP Address
