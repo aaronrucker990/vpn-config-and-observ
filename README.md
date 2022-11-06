@@ -43,7 +43,7 @@ Create an account with Proton VPN
 
 Section 3
 
-Cleaning Up Your Virtual Environment
+Cleaning up your Virtual Environment
 
 7. Delete the Virtual Machine along with the Resource Group that was created. 
 8. Please ensure that you delete all of your resources. 
