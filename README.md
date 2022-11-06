@@ -40,13 +40,14 @@ Create an account with Proton VPN
 	  a. Sign In to your VPN and choose a server in another country (such as Japan)
 	 
 	  b. Browse to https://whatismyipaddress.com/  and take note of your IP Address (Your IP Address is now different)
+7. Try browsing over to Disney, Google or what ever browser you choose to see if there is a difference in the sites. You may see a change in realtion to your location because of the VPN Server you chose. For example when I browsed over to Disney the lanuguage was in Japanese due to the server. 
 
 Section 3
 
 Cleaning up your Virtual Environment
 
-7. Delete the Virtual Machine along with the Resource Group that was created. 
-8. Please ensure that you delete all of your resources. 
+8. Delete the Virtual Machine along with the Resource Group that was created. 
+9. Please ensure that you delete all of your resources. 
 
 
 <h1>Observing Visual Configurations</h1>
