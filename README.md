@@ -49,7 +49,7 @@ Cleaning up your Virtual Environment
 8. Please ensure that you delete all of your resources. 
 
 
-<h1>Observing Configurations</h1>
+<h1>Observations and Configurations</h1>
 
 
 <h2>Visual 1</h2>
