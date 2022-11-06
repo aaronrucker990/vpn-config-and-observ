@@ -3,7 +3,7 @@
 </p>    
     
 <h1>Configuring and Observing a VPN within a Virtual Envoirment</h1>
-This tutorial outlines the implementation of Configuring and Observing a VPN within a Virtual Envoirment.<br />
+This tutorial outlines the implementation of configuring, and observing a VPN within a Virtual Envoirment.<br />
 
 <h2>Environments and Technologies Used</h2>
 
