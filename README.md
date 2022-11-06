@@ -26,9 +26,9 @@ Generating your Virtual Machine in Microsoft Azure
 3. Create a Virtual Machine (You can create a Resource Group when creating your vm)
 4. Create Virtual Machine in a  country (try your country or a country close, so your vm isn’t too slow)
 
-	 a. Log into your VM, you created via Remote Desktop
+	  a. Log into your VM, you created via Remote Desktop
 	
-	 b. Browse tohttps://whatismyipaddress.com/  and take note of your IP Address
+	  b. Browse tohttps://whatismyipaddress.com/  and take note of your IP Address
 
 Section 2
 
@@ -37,9 +37,9 @@ Create an account with Proton VPN
 5. When creating your account with Proton VPN make sure you sign up for the free version.  https://account.protonvpn.com/signup?plan=free&language=en  
 6. Download Proton VPN client within your VM, after creating your account. 
 
-	 a. Sign In to your VPN and choose a server in another country (such as Japan)
+	  a. Sign In to your VPN and choose a server in another country (such as Japan)
 	 
-	 b. Browse to https://whatismyipaddress.com/  and take note of your IP Address (Your IP Address is now different)
+	  b. Browse to https://whatismyipaddress.com/  and take note of your IP Address (Your IP Address is now different)
 
 Section 3
 
