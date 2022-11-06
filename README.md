@@ -186,8 +186,8 @@ Now when browsing to www.whatismyipaddress.com your Virtual Machine's IP Address
 </p>
 <p>
 
-Make sure you can you clean your up your lab. Please do not to forget to delete your Virtual Machine, so it does not run up your bill in Microsoft Azure.
-
+If you browse to a sight like Google, Disney, or Amazon, you should see a language change depending on what country's server you chose. (I chose a Japan server as demostrated in the visual)
+	
 </p>
 <br />
 
