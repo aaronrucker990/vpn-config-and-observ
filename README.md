@@ -198,7 +198,7 @@ If you browse to a sight like Google, Disney, or Amazon, you should see a langua
 
 
 <p>
-<img src= "https://i.imgur.com/2R4HVjp.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= "https://i.imgur.com/kJtQNLa.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
