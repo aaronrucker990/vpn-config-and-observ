@@ -40,7 +40,7 @@ Create an account with Proton VPN
 	  a. Sign In to your VPN and choose a server in another country (such as Japan)
 	 
 	  b. Browse to https://whatismyipaddress.com/  and take note of your IP Address (Your IP Address is now different)
-7. Try browsing over to Disney, Google or what ever browser you choose. There may be difference in the sites, becuase of the change in your server. For example when browsing over to Disney the lanuguage was in Japanese, due to the server I chose. 
+7. Try browsing over to Disney, Google or what ever browser you choose to pick. There may be difference in the sites, becuase of the change in your server. For example when browsing over to Disney the lanuguage was in Japanese, due to the server I chose. 
 
 Section 3
 
