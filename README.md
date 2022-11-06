@@ -23,7 +23,7 @@ Section 1
 Generating your Virtual Machine within Microsoft Azure
 
 1. Create a text file or note pad to keep track of your information.
-2. Browse to https://whatismyipaddress.com/ and take note of your IP Address
+2. Browse to  https://whatismyipaddress.com/ and take note of your IP Address
 3. Create a Virtual Machine (You can create a Resource Group when creating your vm)
 4. Create Virtual Machine in a  country (try your country or a country close, so your vm isn’t too slow)
 
