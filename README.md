@@ -19,30 +19,30 @@ This tutorial outlines the implementation of Configuring and Observing a VPN wit
 
 Section 1
 
-(Create Virtual Machine in Azure)
-1. Browse to https://whatismyipaddress.com/ and take note of this in a text file
-2. Create a Resource Group
-3. Create a Windows 10 Virtual Machine in another geographic location (try a different country)
-   
+Generating your Virtual Machine in Microsoft Azure
+
+1. Create a text file or note pad to keep track of your information.
+2. Browse to https://whatismyipaddress.com/ and take note of your IP Address
+3. Create a Virtual Machine (You can create a Resource Group when creating your vm)
+4. Create Virtual Machine in a  country (try your country or a country close, so your vm isn’t too slow)
+		a. Log into your VM, you created via Remote Desktop
+		b. Browse tohttps://whatismyipaddress.com/  and take note of your IP Address
+
 Section 2
 
- 1. Log into the VM with Remote Desktop
- 2. Browse to https://whatismyipaddress.com/ and take note of this in a text file
- 
-(Sign up for ProtonVPN and test the VPN connection)
+Create an account with Proton VPN
 
-4. On your actual computer, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en  
-5. Back within your VM, download the Proton VPN client
-    1. Login to the VPN and choose a VPN server in yet another country (such as Japan)
-    2. Browse to https://whatismyipaddress.com/  and take note of this in a text file
-6. Try browsing to Google, Disney, and/or Amazon and see if there is anything different about the sites in relation to the location of your VPN server. For example, the language or URL may be different
+5. When creating your account with Proton VPN make sure you sign up for the free version.  https://account.protonvpn.com/signup?plan=free&language=en  
+6. Download Proton VPN client within your VM, after creating your account. 
+		a. Sign In to your VPN and choose a server in another country (such as Japan)
+		b. Browse to https://whatismyipaddress.com/  and take note of your IP Address (Your IP Address is now different)
 
 Section 3
 
-(Clean up Azure resources)
+Cleaning Up Your Virtual Environment
 
-7. Delete the resource group you created in Section 1
-8. Ensure the resources/Resource Group has been deleted.
+7. Delete the Virtual Machine along with the Resource Group that was created. 
+8. Please ensure that you delete all of your resources. 
 
 
 <h1>Observing Configurations</h1>
