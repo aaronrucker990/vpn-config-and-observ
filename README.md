@@ -177,7 +177,23 @@ Now when browsing to www.whatismyipaddress.com your Virtual Machine's IP Address
 <br />
 
 
+
 <h2>Visual 10</h2>
+
+
+<p>
+<img src= "https://i.imgur.com/2R4HVjp.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Make sure you can you clean your up your lab. Please do not to forget to delete your Virtual Machine, so it does not run up your bill in Microsoft Azure.
+
+</p>
+<br />
+
+
+
+<h2>Visual 11</h2>
 
 
 <p>
