@@ -182,7 +182,7 @@ Now when browsing to www.whatismyipaddress.com your Virtual Machine's IP Address
 
 
 <p>
-<img src= "https://i.imgur.com/2R4HVjp.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= "https://i.imgur.com/nYMA9sT.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
