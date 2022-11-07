@@ -188,7 +188,7 @@ Now when browsing to www.whatismyipaddress.com your Virtual Machine's IP Address
 </p>
 <p>
 
-If you browse to a sight like Google, Disney, or Amazon, you should see a language change depending on what country's server you chose. (I chose a Japan server as demostrated in the visual)
+If you browse to a site like Google, Disney, or Amazon, you should see a language change depending on what country's server you chose. (I chose a Japan server as demostrated in the visual)
 	
 </p>
 <br />
