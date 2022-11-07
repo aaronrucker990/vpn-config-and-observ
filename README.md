@@ -159,7 +159,7 @@ In this lab you are able to use any type of VPN, but for the sake of convenience
 </p>
 <p>
     
-Once Proton Vpn is downloaded you can connect to the country you prefer, but for this lab if you examine I chose a Japan Server. 
+Once Proton VPN is downloaded you can connect to the country you prefer, but for this lab if you examine I chose a Japan Server. 
     
 </p>
 <br />
